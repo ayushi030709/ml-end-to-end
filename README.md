@@ -118,7 +118,7 @@ This ensures your project is always tested, clean, and production-ready.
 
 🖥️ How to Run Locally
 # Clone repo
-git clone https://github.com/yourusername/mlproject.git
+git clone https://github.com/ayushi030709/mlproject.git
 cd mlproject
 
 # Create virtual environment
@@ -169,3 +169,4 @@ Demonstrated software engineering practices: logging, exception handling, unit t
 Ready for real-world ML engineering / Data Scientist workflows.
 
 🔥 This project proves I can build, deploy, and maintain ML applications at scale.
+
