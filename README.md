@@ -116,11 +116,6 @@ Can be extended to deploy on Heroku, AWS EC2, or with Docker + GitHub Packages.
 
 This ensures your project is always tested, clean, and production-ready.
 
-🖥️ How to Run Locally
-# Clone repo
-git clone https://github.com/ayushi030709/mlproject.git
-cd mlproject
-
 # Create virtual environment
 python -m venv venv
 source venv/bin/activate   # On Linux/Mac
@@ -169,4 +164,5 @@ Demonstrated software engineering practices: logging, exception handling, unit t
 Ready for real-world ML engineering / Data Scientist workflows.
 
 🔥 This project proves I can build, deploy, and maintain ML applications at scale.
+
 
